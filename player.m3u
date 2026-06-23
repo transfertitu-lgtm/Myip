@@ -447,3 +447,14 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports
+https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAmVIQEFWVnFaXExxAQAJT1hRSGdXVkVAHisdSg0tUlBbEkAXQz5WQB0AADBFCEoqCw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV Live 
+https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAmVIQEFfXXFaUVduBgIeUF1QSG5WQB0OADYASBIqR0dRE0ADEzwEBxFCGjoHAB4tUl4dAwwVAj4VQR1cG2c
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN Sports
+https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAixdQF8cGjAZBB46HVRfDgoNFz4XBgNBDTAGSgkwWkZJEwMGBD0JHBgLDDkMAAhwXkZIPhsIFjoIMAQcQTYFARwnHgIeDF4USg
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", S Live Central A
+https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAmVIQAIIBTQcSxU2RVYfDQQXF3BWLh8KAGgOCQlqHHpXLCdXQisKLhFAWWteVE1mHUdD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox Sports 1 - FIFA
+https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAmVIQEReQG1ZVldsAx0CUl1ONBA_PCAgPAs4VFYrQVJTCh5MBG4GXl8CATEESxRsRgs
